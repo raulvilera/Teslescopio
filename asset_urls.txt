@@ -1,0 +1,44 @@
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/atividade-reais/q10_rover_lunar.jpg (size: 43949 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/q10_rover_lunar_483a4a67.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/atividade-reais/q12_fases_lua.jpg (size: 82554 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/q12_fases_lua_0d8391e3.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/atividade-reais/q14_eclipse_solar.jpg (size: 90101 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/q14_eclipse_solar_50656f38.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/atividade-reais/q16_avenida_chuvosa.jpg (size: 302384 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/q16_avenida_chuvosa_07f2727f.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/atividade-reais/q19_equipamento_meteorologico.jpg (size: 96710 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/q19_equipamento_meteorologico_c767481d.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/atividade-reais/q23_tecnico_estacao.jpg (size: 404064 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/q23_tecnico_estacao_4c8c0a4b.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/atividade-reais/q25_chuva_alerta.jpg (size: 488453 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/q25_chuva_alerta_e551dfcb.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/atividade-reais/q3_sistema_solar_real.jpg (size: 159348 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/q3_sistema_solar_real_ff9f3213.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/atividade-reais/q7_estacoes_arvores.jpg (size: 668509 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/q7_estacoes_arvores_28a060ba.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/atividade-reais/q9_astronauta_lua.jpg (size: 467667 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/q9_astronauta_lua_69ab0526.jpg
+
+========== Upload Summary ==========
+[SUCCESS] /home/ubuntu/webdev-static-assets/atividade-reais/q10_rover_lunar.jpg -> /manus-storage/q10_rover_lunar_483a4a67.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/atividade-reais/q12_fases_lua.jpg -> /manus-storage/q12_fases_lua_0d8391e3.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/atividade-reais/q14_eclipse_solar.jpg -> /manus-storage/q14_eclipse_solar_50656f38.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/atividade-reais/q16_avenida_chuvosa.jpg -> /manus-storage/q16_avenida_chuvosa_07f2727f.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/atividade-reais/q19_equipamento_meteorologico.jpg -> /manus-storage/q19_equipamento_meteorologico_c767481d.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/atividade-reais/q23_tecnico_estacao.jpg -> /manus-storage/q23_tecnico_estacao_4c8c0a4b.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/atividade-reais/q25_chuva_alerta.jpg -> /manus-storage/q25_chuva_alerta_e551dfcb.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/atividade-reais/q3_sistema_solar_real.jpg -> /manus-storage/q3_sistema_solar_real_ff9f3213.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/atividade-reais/q7_estacoes_arvores.jpg -> /manus-storage/q7_estacoes_arvores_28a060ba.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/atividade-reais/q9_astronauta_lua.jpg -> /manus-storage/q9_astronauta_lua_69ab0526.jpg
+=====================================
+Total: 10, Success: 10, Failed: 0
